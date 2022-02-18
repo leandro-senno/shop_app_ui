@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:shop_app_ui/constants.dart';
+import 'package:shop_app_ui/models/Category.dart';
 
 class Categories extends StatelessWidget {
   const Categories({
